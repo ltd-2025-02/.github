@@ -51,7 +51,7 @@ Aqui você encontrará os projetos desenvolvidos por nossos membros. Cada reposi
   - **Link:** `https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories`
   - **Tecnologias:** `Python`, `TensorFlow`, `Scikit-learn`
 
-➡️ **[Veja todos os nossos repositórios aqui!]([LINK_PARA_A_PÁGINA_DE_REPOSITÓRIOS_DA_ORG])**
+➡️ **[Veja todos os nossos repositórios aqui!](https://github.com/orgs/ltd-2025-02/repositories)**
 
 ---
 
@@ -92,8 +92,8 @@ Para mais detalhes, leia nosso arquivo `CONTRIBUTING.md` em cada repositório.
 
 O sucesso do nosso laboratório depende das pessoas incríveis que fazem parte dele.
 
-- **Coordenador(a) do Laboratório:** `[Nome do(a) Professor(a) Coordenador(a)]`
-- **Membros Ativos:** Conheça todos os estudantes e colaboradores que fazem a mágica acontecer na nossa [página de membros]([LINK_PARA_A_PÁGINA_DE_MEMBROS_DA_ORG]).
+- **Coordenador(a) do Laboratório:** `Vagner Cordeiro`
+- **Membros Ativos:** Conheça todos os estudantes e colaboradores que fazem a mágica acontecer na nossa [página de membros](https://www.ltdestacio.com.br/).
 
 ---
 
@@ -102,8 +102,8 @@ O sucesso do nosso laboratório depende das pessoas incríveis que fazem parte d
 Quer saber mais, propor uma parceria ou tirar alguma dúvida? Entre em contato conosco!
 
 - **E-mail:** `[ltd.sistemas.estacio@email.com]`
-- **LinkedIn:** `[Link para a página do LinkedIn, se houver]`
-- **Discord/Slack:** `[Link para o servidor da comunidade, se houver]`
+- **LinkedIn:** `[adicionar um linkedin para o LTD]`
+- **Discord/Slack:** `[adicionar o nosso ltd]`
 
 <p align="center">
   Feito com ❤️ por alunos para alunos.
