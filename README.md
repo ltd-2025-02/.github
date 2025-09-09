@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="[URL_DA_IMAGEM_BANNER_DO_LTD]" alt="Banner do Laboratório de Transformação Digital" width="600"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/017f4b11-9016-45aa-ab0f-834e9f6e768c" alt="Banner do Laboratório de Transformação Digital" width="600"/>
 
 <h1 align="center">
   LTD - Laboratório de Transformação Digital
